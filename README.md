@@ -1,6 +1,6 @@
-# coffee
+# Mobile Coffee
 
-A new Flutter project.
+MoCo Flutter project.
 
 ## Getting Started
 
